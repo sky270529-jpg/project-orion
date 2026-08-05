@@ -1,0 +1,10 @@
+{
+  "case_id": "OR-2026-018",
+  "company": "StarCompute AI",
+  "synthetic": true,
+  "decision_status": "conditional_review",
+  "summary": {"claims": 27, "verified": 18, "conflicted": 4, "missing_evidence": 3, "major_risks": 2},
+  "demo_claim": {"id": "C-01", "text": "The company has 300 paying customers as of June 2026.", "independently_verified_customers": 83, "status": "conflicted"},
+  "disclaimer": "Synthetic demonstration data. Not investment advice."
+}
+
