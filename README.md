@@ -4,6 +4,10 @@
 
 Project ORION is an evidence-based risk assessment agent for enterprise investment teams, built by **Orion Labs** for the GOAI 2026 AI+Finance track.
 
+## Live demo
+
+https://project-orion-evidence-os.xyropy.chatgpt.site
+
 ## What it does
 
 ORION turns company materials and external information into traceable investment evidence. The current prototype demonstrates:
@@ -55,4 +59,3 @@ Orion Labs
 ## License
 
 MIT. Third-party packages retain their respective licenses; see `THIRD_PARTY_NOTICES.md`.
-
